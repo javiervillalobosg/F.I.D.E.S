@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+real/
+edited/
+data/
+raw/
+evidencia/
+informes/
+*.db
+*.pkl
